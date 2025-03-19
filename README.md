@@ -6,7 +6,7 @@ Esta API permite gestionar usuarios, listas de tareas (**ToDos**) y tareas indiv
 ## 🚀 Instalación y ejecución
 ### 1️⃣ Clonar el repositorio
 ```sh
-git clone https://github.com/tu-usuario/todo-api.git
+git clone https://github.com/Dark-rambler/todo-api-prueba.git
 cd todo-api
 ```
 
